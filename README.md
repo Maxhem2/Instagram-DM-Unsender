@@ -19,8 +19,6 @@ A script to unsend all DMs in a chat on instagram.com
 2.  **Install the Script**: Click the link below to install the script. Your userscript manager will prompt you to confirm the installation.
     * **[Click Here to Install](https://github.com/Maxhem2/instagram-dm-unsender/raw/main/instagram-dm-unsender.user.js)**
 
-3.  **Change language to English USA**
-
 ## ⚠️ Disclaimer
 
 * **Use at Your Own Risk**: Automating actions on any platform may be against their Terms of Service. Instagram could potentially rate-limit or temporarily block your account if it detects too many actions in a short period. This script is provided as is without warranty of any kind. The developer is not responsible for any consequences of its use.
